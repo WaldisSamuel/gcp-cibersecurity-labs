@@ -6,7 +6,7 @@
 | **Fecha** | 2026-11-06 |
 | **Duración aproximada** | 1 hora y 30 minutos |
 | **Nivel de dificultad** | Intermedio |
-| **Habilidades** | [VPC, IAM, firewall, Cloud Shell] |
+| **Habilidades** | [VPC, IAM, firewall, Cloud Shell, y auditoria de red] |
 
 ## 1. Contexto
 Describe en 2 o 3 líneas el problema de seguridad o de red que aborda el laboratorio. Usa tus propias palabras.
